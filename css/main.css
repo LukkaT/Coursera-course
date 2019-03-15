@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+.box-sec {
+    border: 2px solid black;
+    background-color: gray;
+    margin-bottom: 2px;
+    display: inline-block;
+}
+
+.box {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.title {
+    border: 2px solid black;
+    border-right: none;
+    display: inline-block;
+    text-align: center;
+    padding: 5px 25px 5px 25px;   
+    position: relative;
+    float: right;
+}
+
+#chicken {
+    background-color: pink;
+    color: black;
+    font-weight: bold;
+}
+
+#beef {
+    background-color: brown;
+    color: white;
+    font-weight: bold;
+}
+
+#sushi {
+    background-color: yellowgreen;
+    color: black;
+    font-weight: bold;
+}
